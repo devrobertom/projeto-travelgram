@@ -1,7 +1,7 @@
 main{
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
+    gap: 12px;
     padding-block: 24px;
 }
 
@@ -9,4 +9,5 @@ main img{
     width: 286px;
     height: 286px;
     object-fit: cover;
+    padding-left: 32px;
 }
